@@ -90,7 +90,8 @@ git commit -m "添加笔记"
 git push --set-upstream origin critical_thinking/addNotes
 
 # 在远程仓库提交 merge request
-
-
 ~~~
 
+## 参考链接
+
+[How to Solve Squash Failed on GitLab (wellosoft.net)](https://blog.wellosoft.net/how-to-solve-squash-failed-on-gitlab)
